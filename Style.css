@@ -1,0 +1,81 @@
+* {
+    background-color: #0071b9;
+    color: white;
+}
+
+h1 {
+    color: #0071b9;
+    background-color: white;
+    border-radius: 20px;
+}
+
+p {
+    font-size: 25px;
+    font-weight: 100px;
+    font-style: italic;
+}
+
+p span {
+    font-weight: bold;
+}
+h2{
+    color: #0071b9;
+    background-color: white;
+    border-radius: 10px;
+    width: 310px;
+    margin-top: 20px;
+}
+p span {
+    font-size: 25px;
+    font-weight: 100px;
+    font-style: normal;
+    text-align: justify;
+    text-transform: capitalize;
+}
+
+.intro {
+    /* CLASS */
+    background-image: url(imges.css/pexels-artem-podrez-5716013.jpg);
+    border-radius: 10px;
+    margin-top: 20px;
+    bottom: 100px;
+}
+
+
+.intro h2 {
+    color: #0071b9;
+}
+
+.intro > p {
+    font-size: 20px;
+}
+
+.button {
+    background-color: white;
+    color: #0071b9;
+    border-style: solid;
+    border-width: 40px;
+    border-top: white;
+    border-left: solid;
+    border-right: solid;
+    border-bottom: white;
+    border-radius: 40px;
+    margin-left: 1000px;
+    height: 18px;
+}
+
+/* GROUP DISCUSSION */
+.testimonial h1 {
+    font-weight: bold;
+}
+
+.testimonial {
+    padding: 30px;
+      background-color: #0071b9;
+}
+
+.html h1 {
+    font-weight: bold;
+    text-shadow: 3px 2px white;
+    text-align: center;
+}
